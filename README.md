@@ -1,2 +1,11 @@
 # Network-Segmentation-in-Cloud-Creating-Subnets-ENTRA-ID-
 The project focuses on implementing network segmentation and creating subnets within the Microsoft Azure cloud platform. It aims to optimize performance, enhance security, and streamline management of network resources for organizations leveraging Azure services.
+***Key Components:***
+
+1. **Understanding Network Segmentation:** The project begins with an exploration of network segmentation concepts and their importance in cloud environments. It highlights the benefits of segmentation and discusses various types of segmentation strategies.
+2. **Introduction to Microsoft Azure:** A comprehensive overview of Microsoft Azure is provided, emphasizing its networking capabilities and the importance of network segmentation within the Azure ecosystem.
+3. **Designing Network Segmentation in Azure:** The project outlines a systematic approach for designing network segmentation in Azure, including planning, identification of workloads, and formulation of security policies. Best practices for implementation are discussed to ensure an effective segmentation strategy.
+4. **Creating Subnets in Azure:** Detailed steps are provided for creating subnets within Azure virtual networks. This includes configuring subnet address spaces, assigning resources, and organizing network traffic efficiently.
+5. **Implementing Security in Azure Subnets:** Security remains a top priority throughout the project. Strategies for implementing robust security measures such as Network Security Groups (NSGs), Azure Firewall, and advanced security appliances are discussed to protect resources within Azure subnets.
+6. **Testing and Validation:** Thorough testing and validation procedures are outlined to ensure the functionality and security of the deployed network infrastructure. This includes network connectivity testing, security testing, and performance testing.
+7. **Monitoring and Management:** The project emphasizes the importance of continuous monitoring and management of network resources in Azure. Tools such as Azure Monitor and Azure Security Center are highlighted for monitoring network traffic, detecting security threats, and ensuring compliance with best practices.
